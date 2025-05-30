@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+*.bin
+*.bin.gz
 *.py[cod]
 # C extensions
 *.so
